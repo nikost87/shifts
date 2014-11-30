@@ -1,0 +1,18 @@
+      h2{
+	  font-size:16pt;
+	  font-family:Arial, sans-serif;
+	  }
+	  th{
+	  font-size:16pt;
+      color:grey;
+	  text-align:left;	
+	  font-style:italic;
+	  font-family:Arial, sans-serif;
+	  padding-bottom:5pt;
+	  }
+	  td{
+	  font-size:14pt;
+	  text-align:left;
+	  font-family:Arial, sans-serif;
+	  padding-bottom:10pt;
+	  }
